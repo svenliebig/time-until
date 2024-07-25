@@ -25,12 +25,6 @@
     "incremental": true
   },
   "include": [
-    "src",
-    "typings"
-  ],
-  "references": [
-    {
-      "path": "./tsconfig.node.json"
-    }
+    "src"
   ]
 }
